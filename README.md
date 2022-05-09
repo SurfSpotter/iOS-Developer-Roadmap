@@ -10,152 +10,152 @@
 ## Books
 
 - [ ] [`Ray Wenderlich`]()
-  - [X] Grosch S. - Concurrency by Tutorials (1st Edition) - 2019
-  - [X] SwiftUI by Tutorials - 2020
+  - [ ] Grosch S. - Concurrency by Tutorials (1st Edition) - 2019
+  - [ ] SwiftUI by Tutorials - 2020
   - [ ] Todorov M. - Realm. Building Modern Swift Apps with Realm Database (2nd Edition) - 2019
   - [ ] Animations by Tutorials - 2019
   - [ ] Greene J., Strawn J. - Design Patterns by Tutorials (3rd Edition) - 2019
-- [X] Jon Hoffman. Swift 4. Protocol-oriented Programming
+- [ ] Jon Hoffman. Swift 4. Protocol-oriented Programming
 
 ## ☑️ Memory manadgment  
 
-  - [X] Stack and Heap
-  - [X] Value vs Reference type
-  - [X] ARC/ MRC
-  - [X] Retain cycles / Memory leaks
-  - [X] Shallow and deep copying
-  - [X] Weak/Strong references
+  - [ ] Stack and Heap
+  - [ ] Value vs Reference type
+  - [ ] ARC/ MRC
+  - [ ] Retain cycles / Memory leaks
+  - [ ] Shallow and deep copying
+  - [ ] Weak/Strong references
 
 ## ☑️ Swift
 
-- [X] Closures, 
-- [X] Generics
-- [X] Initializers
-- [X] Protocols
-- [X] Struct
-- [X] Enums
-- [X] Runtime
-- [X] Method dispatch
+- [ ] Closures, 
+- [ ] Generics
+- [ ] Initializers
+- [ ] Protocols
+- [ ] Struct
+- [ ] Enums
+- [ ] Runtime
+- [ ] Method dispatch
 
 ## ☑️ Multithreading and concurency
 
-- [x] GCD
-- [X] NSOperationQueue
-- [X] Race condition, deadlock, livelock
-- [X] Readers/writers problem
-- [X] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
+- [ ] GCD
+- [ ] NSOperationQueue
+- [ ] Race condition, deadlock, livelock
+- [ ] Readers/writers problem
+- [ ] [Green threads](https://ru.wikipedia.org/wiki/Green_threads)
 
 ## ☑️ `UIKit`
 
-- [X] UIApplication
-- [X] UIApplication: States
-- [X] [`Layout`]()
-  - [X] Frame-based
-  - [X] Autolayout
-- [X] Navigation
-- [X] UIViewController
-- [X] UIViewController: Lifecycle
+- [ ] UIApplication
+- [ ] UIApplication: States
+- [ ] [`Layout`]()
+  - [ ] Frame-based
+  - [ ] Autolayout
+- [ ] Navigation
+- [ ] UIViewController
+- [ ] UIViewController: Lifecycle
 
 ## ☑️ Networking
 
-- [X] URLSession
-- [X] Alamofire
-- [X] Rest API (Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`)
+- [ ] URLSession
+- [ ] Alamofire
+- [ ] Rest API (Difference between `GET`, `POST`, `PUT`, `PATCH`, `DELETE`)
 
 ## ☑️ Foundation
 
-- [X] Notifications vs Delegation vs Observing
-- [X] Collections
-- [X] Networking
-- [x] Serialization (NSCoding, Codable, JSON, XML)
+- [ ] Notifications vs Delegation vs Observing
+- [ ] Collections
+- [ ] Networking
+- [ ] Serialization (NSCoding, Codable, JSON, XML)
 ## ☑️ Software Architecture
 
-- [X] MVC
-- [X] MVVM
-- [X] MVP
-- [X] VIPER
+- [ ] MVC
+- [ ] MVVM
+- [ ] MVP
+- [ ] VIPER
 
 ## Design patterns
 
-- [X] [`Creational`]()
-  - [X] Factory
-  - [X] Abstract Factory
-  - [X] Builder
-  - [X] Factory Method
-  - [X] Prototype
-  - [X] Object Pool
-  - [X] Singleton
-- [X] [`Structural`]()
-  - [X] Adapter
-  - [X] Bridge
-  - [X] Composite
-  - [X] Decorator
-  - [X] Facade
-  - [X] Flyweight
-  - [X] Proxy
+- [ ] [`Creational`]()
+  - [ ] Factory
+  - [ ] Abstract Factory
+  - [ ] Builder
+  - [ ] Factory Method
+  - [ ] Prototype
+  - [ ] Object Pool
+  - [ ] Singleton
+- [ ] [`Structural`]()
+  - [ ] Adapter
+  - [ ] Bridge
+  - [ ] Composite
+  - [ ] Decorator
+  - [ ] Facade
+  - [ ] Flyweight
+  - [ ] Proxy
 - [ ] [`Behavioural`]()
-  - [X] Command
+  - [ ] Command
   - [ ] Chain of responsibility
   - [ ] Interpreter
   - [ ] Iterator
   - [ ] Mediator
   - [ ] Memento
-  - [X] Observer
-  - [X] State
-  - [X] Strategy
+  - [ ] Observer
+  - [ ] State
+  - [ ] Strategy
   - [ ] Visitor
 - [ ] [`Other`]()
   - [ ] Anti-pattern
   - [ ] Class cluster
   - [ ] Chain of Responsibility
   - [ ] Receptionist
-  - [X] Template Method
+  - [ ] Template Method
 
 ## Design principles
 
-- [x] SOLID
+- [ ] SOLID
 - [ ] Inversion of Control
-- [X] Dependency Injection
-- [X] Dry (Don't repeat yourself)
-- [X] KISS (Keep it simple, stupid)
+- [ ] Dependency Injection
+- [ ] Dry (Don't repeat yourself)
+- [ ] KISS (Keep it simple, stupid)
 
 ## ☑️ Dependency management
 
 - [X] Cocoapods
-- [X] Carthage
-- [X] Swift Package Manager
+- [ ] Carthage
+- [ ] Swift Package Manager
 
 ## ☑️ Version Control System
 
-- [X] Git
-- [X] SVN
+- [ ] Git
+- [ ] SVN
 
 ## Caching and Presistency
 
-- [X] Core Data
-- [X] Realm
+- [ ] Core Data
+- [ ] Realm
 - [ ] YAPDatabase
 - [ ] SQLite
 
 ## Testing
 
-- [X] Unit Tests
+- [ ] Unit Tests
 - [ ] Snapshot Tests
 - [ ] Functional test
-- [X] TDD
-- [X] BDD
+- [ ] TDD
+- [ ] BDD
 
 ## XCode/Tools/Debbuging
 
-- [x] Workspace/cocoapods
-- [X] Interface Builder
-- [X] Keychain
+- [ ] Workspace/cocoapods
+- [ ] Interface Builder
+- [ ] Keychain
 - [ ] Security Transforms API
-- [X] UI Debbuging
-- [X] Reveal for UI Debuggin
-- [X] Instruments: Leaks
-- [X] Instruments: Time profiler
-- [X] Instruments: Allocations
+- [ ] UI Debbuging
+- [ ] Reveal for UI Debuggin
+- [ ] Instruments: Leaks
+- [ ] Instruments: Time profiler
+- [ ] Instruments: Allocations
 - [ ] Zombies
 - [ ] Activity monitor  
 - [ ] Charles: request/response. Mock, rewrite http data etc...
@@ -179,32 +179,32 @@
   - [ ] Recursion
   - [ ] Game Theory
   - [ ] NP Complete
-  - [X] Big-O notation
+  - [ ] Big-O notation
 - [ ] Abstract Data Types
-  - [x] Stack
-  - [x] Array
+  - [ ] Stack
+  - [ ] Array
   - [ ] List
   - [ ] Map
   - [ ] Multimap
-  - [x] Set
+  - [ ] Set
   - [ ] Multiset (Bag)
   - [ ] Graph -> Tree
-  - [X] Queue
+  - [ ] Queue
   - [ ] Priority Queue
   - [ ] Double-ended priority queue
   - [ ] Double-ended queue
 
 ## Programming Paradigms
 
-  - [X] Protocol-Oriented 
-  - [X] OOP
+  - [ ] Protocol-Oriented 
+  - [ ] OOP
 
 ## Libs, frameworks, pods, Kit's
 
-- [X] ObjectMapper (pod)
-- [X] Charts (pod)
-- [X] Payments and subscription
-- [X] Moya
+- [ ] ObjectMapper (pod)
+- [ ] Charts (pod)
+- [ ] Payments and subscription
+- [ ] Moya
 - [ ] BLE (Bluetooth Low Energy)
 - [ ] AVFoundation
 - [ ] AVKit
@@ -227,16 +227,16 @@
 
 ## ☑️ Course and tutorials
 
-- [X] [Multithreading](https://swiftbook.ru)
-- [X] [TDD](https://swiftbook.ru)
+- [ ] [Multithreading](https://swiftbook.ru)
+- [ ] [TDD](https://swiftbook.ru)
 
 
 
 ## Articles (must have)
 
-- [x] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
+- [ ] [Structs and class](https://medium.com/commencis/stop-using-structs-e1be9a86376f)
 
-- [x] [Dispatch methods](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
+- [ ] [Dispatch methods](https://www.rightpoint.com/rplabs/switch-method-dispatch-table)
 
 - [ ] [Dispatch methods #2](https://heartbeat.fritz.ai/understanding-method-dispatch-in-swift-684801e718bc)
 
